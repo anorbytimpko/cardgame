@@ -1,0 +1,2 @@
+
+				cardList[i] = new Card();
