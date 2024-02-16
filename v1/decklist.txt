@@ -1,0 +1,10 @@
+strike 01 20 6 1 0 0
+smack 02 15 8 1 0 0
+damage 03 30 4 1 0 0
+crack 04 25 7 1 0 0
+block 05 0 5 0 1 0
+immune 06 0 10 0 1 0
+counter 07 2 10 0 0 1
+reversal 08 10 20 0 0 1
+biggun 09 27 27 1 0 0
+ten 10 200 200 1 0 0
